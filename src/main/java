@@ -1,12 +1,1 @@
-package com.example.publichealth;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class PublicHealthMonitoringSystemApplication {
-
-    public static void main(String[] args) {
-        SpringApplication.run(PublicHealthMonitoringSystemApplication.class, args);
-    }
-}
